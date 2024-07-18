@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "homepage": "http://aboAbdelhay.github.io/Task-job-Fair",
+    "homepage": "http://aboAbdelhay.github.io/jop-fair",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
